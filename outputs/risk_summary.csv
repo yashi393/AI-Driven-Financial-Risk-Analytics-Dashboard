@@ -1,0 +1,9 @@
+errors,count
+Bad CVV,26
+"Bad CVV,Insufficient Balance",1
+Bad Card Number,31
+Bad Expiration,18
+Bad PIN,124
+Bad Zipcode,6
+Insufficient Balance,489
+Technical Glitch,86

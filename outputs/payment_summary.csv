@@ -1,0 +1,4 @@
+use_chip,total_transactions,total_spend,avg_transaction,refunds,failures
+Chip Transaction,18000,723267.31,40.181517222222226,1030,261
+Online Transaction,5776,331080.27,57.31999134349031,18,132
+Swipe Transaction,26224,1092727.67,41.668992907260524,1455,388
