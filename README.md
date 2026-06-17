@@ -188,7 +188,7 @@ Provides operational risk visibility.
 
 ### Dashboard Screenshot
 
-![Risk Analytics](Screenshots/Risk_Analytics.png)
+![Risk Analytics](https://github.com/yashi393/AI-Driven-Financial-Risk-Analytics-Dashboard/blob/main/screenshots/Risk%20&%20Payment%20Analytics.png?raw=true)
 
 ---
 
