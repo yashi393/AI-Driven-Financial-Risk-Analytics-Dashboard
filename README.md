@@ -145,7 +145,7 @@ Provides a high-level view of business performance.
 
 ### Dashboard Screenshot
 
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](https://github.com/yashi393/AI-Driven-Financial-Risk-Analytics-Dashboard/blob/main/screenshots/Executive%20Summary.png?raw=true)
 
 ---
 
