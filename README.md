@@ -166,7 +166,7 @@ More than 95% of total spending originates from Medium and High Activity custome
 
 ### Dashboard Screenshot
 
-![Customer Merchant Insights](Screenshots/Customer_Merchant_Insights.png)
+![Customer Merchant Insights](https://github.com/yashi393/AI-Driven-Financial-Risk-Analytics-Dashboard/blob/main/screenshots/Customer%20&%20Merchant%20Insights.png?raw=true)
 
 ---
 
