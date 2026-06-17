@@ -205,7 +205,7 @@ Machine Learning-powered transaction risk monitoring.
 
 ### Dashboard Screenshot
 
-![AI Risk Analytics](Screenshots/AI_Risk_Analytics.png)
+![AI Risk Analytics](https://github.com/yashi393/AI-Driven-Financial-Risk-Analytics-Dashboard/blob/main/screenshots/AI%20Risk%20Analytics.png?raw=true)
 
 ---
 
